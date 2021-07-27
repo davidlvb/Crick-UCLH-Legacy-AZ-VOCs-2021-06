@@ -21,7 +21,7 @@ load("Crick_Legacy_2021-12-06_B-1-617-2_AZ_PUBLIC.Rda")
 legacyAZ <- dtHashed
 rm(dtHashed)
 
-load("pastData/Crick_Legacy_2021-24-05_B-1-617-2_PUBLIC.Rda")
+load("Crick_Legacy_2021-24-05_B-1-617-2_PUBLIC.Rda")
 legacyPf <- dtHashed
 rm(dtHashed)
 
