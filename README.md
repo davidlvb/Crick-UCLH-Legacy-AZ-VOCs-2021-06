@@ -24,4 +24,4 @@ Available in this repository:
  * Crick_Legacy_2021-12-06_B-1-617-2_AZ_PUBLIC.Rda
  * Crick_Legacy_AZPfizer_2021-12-06_B-1-617-2_GeneratePlots.R
 
-_Note that the barcode/participant IDs between the Pfizer and AZ datasets overlap due to anonymisation (i.e. don't join on they without appending an identifier as to which dataset they came from)._
+_Note that the barcode/participant IDs between the Pfizer and AZ datasets overlap due to anonymisation (i.e. don't join on barcodes/IDs without appending an identifier as to which dataset they came from)._
